@@ -1,4 +1,3 @@
-Certainly! Here's an example README.md file for your Express.js API:
 
 ---
 
